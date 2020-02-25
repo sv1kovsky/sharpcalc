@@ -1,0 +1,10 @@
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\bin\Debug\calcsharp.exe.config
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\bin\Debug\calcsharp.exe
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\bin\Debug\calcsharp.pdb
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.csprojAssemblyReference.cache
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.Form1.resources
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.Properties.Resources.resources
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.csproj.GenerateResource.cache
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.exe
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.pdb
+C:\Users\sv1k1\source\repos\calcsharp\calcsharp\obj\Debug\calcsharp.Form2.resources
